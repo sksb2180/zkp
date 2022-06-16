@@ -1,3 +1,3 @@
 # zkp
 
-Zero knowledge university stuff, for may-june cohort.
+Zero knowledge university stuff, for cohort4.
